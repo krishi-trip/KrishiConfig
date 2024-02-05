@@ -21,8 +21,9 @@ NVIM Setup:
 
 ---
 Vim Setup:
-- Update vim using homebrew
-- Download the .vimrc from the vim folder
+- Update vim
+- Download Vim-plug
+- Download the .vimrc from the vim folder and place it in root
 - Reload vim
 - Use command ":PlugInstall"
 - Reload vim
